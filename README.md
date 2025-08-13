@@ -12,14 +12,6 @@ Este repositorio contiene scripts reutilizables para:
 - Automatizar flujos de onboarding/offboarding
 - Integraciones con otros sistemas
 
-## 📂 Estructura
-
-| Script                     | Descripción                                        |
-|---------------------------|----------------------------------------------------|
-| `Get-LicenseUsage.ps1`    | Consulta y exporta uso de licencias actuales       |
-| `Get-AccountsFromSafe.ps1`| (Ejemplo) Lista todas las cuentas de un safe       |
-| `Rotate-Password.ps1`     | (Ejemplo) Fuerza rotación inmediata de una cuenta  |
-
 ## 📦 Requisitos
 
 - PowerShell 5.x o PowerShell Core
@@ -30,6 +22,3 @@ Este repositorio contiene scripts reutilizables para:
 
 > Este repositorio no almacena tokens ni contraseñas. Se recomienda ejecutar los scripts desde entornos seguros.
 
-## 📄 Licencia
-
-MIT License – ver archivo [LICENSE](LICENSE)
